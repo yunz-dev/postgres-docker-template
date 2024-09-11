@@ -1,6 +1,8 @@
 # postgres-docker-template
 
 ## Set Up
+1. Change environment variables in `docker-compose.yml`
+2. Run:
 ```bash
 docker compose up -d
 ```
